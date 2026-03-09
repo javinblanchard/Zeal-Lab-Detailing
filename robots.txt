@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hottropix.pictures/sitemap.xml
+Sitemap: https://zeallabdetailing.com/sitemap.xml
