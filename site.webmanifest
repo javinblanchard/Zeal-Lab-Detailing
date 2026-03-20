@@ -1,11 +1,11 @@
 {
-  "name": "Hot Tropix Auto Spa",
-  "short_name": "Hot Tropix",
-  "description": "Vehicle wraps, vehicle lettering, vehicle graphics, paint protection film, ceramic coating, and auto detailing in Westerville, OH.",
+  "name": "Zeal Lab Detailing",
+  "short_name": "Zeal Lab",
+  "description": "Professional auto detailing services from Zeal Lab Detailing.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#101010",
-  "theme_color": "#3c31d6",
+  "theme_color": "#101010",
   "icons": [
     {
       "src": "/assets/img/android-chrome-192x192.png",
