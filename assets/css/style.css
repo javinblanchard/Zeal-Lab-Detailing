@@ -5348,6 +5348,14 @@ kbd {
   background-color: var(--white-color);
 }
 
+.service-card-style-2.type-two .view-more-btn .more-btn {
+  color: var(--black-color);
+}
+
+.service-card-style-2.type-two .view-more-btn .more-btn::after {
+  background-color: var(--black-color);
+}
+
 .service-card-style-2 .service-icon {
   background-color: var(--white-color);
 }
@@ -5358,6 +5366,21 @@ kbd {
 
 .service-card-style-2 .service-desp .title:hover {
   color: #d9d9d9;
+}
+
+.contact-form .from-inputs .type_1 input,
+.contact-form .from-textarea .type_1 textarea {
+  border: 1px solid rgba(255, 255, 255, 0.35);
+}
+
+.contact-form .from-inputs .type_1 input:focus,
+.contact-form .from-textarea .type_1 textarea:focus {
+  border-color: var(--white-color) !important;
+  box-shadow: 0 0 0 0.25rem rgba(255, 255, 255, 0.19);
+}
+
+.custom-file .custom-file-upload {
+  color: var(--white-color);
 }
 
 @media screen and (max-width: 767px) {
